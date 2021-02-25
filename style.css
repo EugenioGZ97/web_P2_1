@@ -1,0 +1,33 @@
+span.cv_title {
+    color: red;
+}
+h1, h3 {
+  color: green;
+  font-style: italic;
+  background-color: yellow;
+  font-weight: bolder;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  font-family: cursive;
+}
+
+ul.bullets{
+  text-decoration: overline;
+  letter-spacing: normal;
+}
+
+address{
+  background-color: green;
+  font-weight: bold;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  margin: 40px 0;
+}
